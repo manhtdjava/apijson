@@ -1,21 +1,22 @@
 [
       {
         "ht1": "Tin hot", 
-        "ht2": "54 phút trước", 
+        "timePost": "16:18 25/08/2023",   
         "txttitle": "Nóng: Ngoa Thương, Bách Khoa, Y Hà Nội và hơn 30 trường ĐH trên toàn quốc dự kiến lịch công bố điểm chuẩn", 
         "img_notifi": "https://photo-baomoi.bmcdn.me/w700_r1/2023_08_23_35_46707355/4d83b5a036eddfb386fc.jpg", 
         "listCheck": "10 tin liên quan" 
+            
       },
            {
         "ht1": "Đừng bỏ lỡ", 
         "ht2": "1 ngày trước", 
         "txttitle": "Những lý do thí sinh 2K5 nên đặt nguyện vọng ưu tiên vào trường Đại học Đại Nam", 
         "img_notifi": "https://static-images.vnncdn.net/files/publish/2022/7/7/bo-gd-dt-cong-bo-dap-an-mon-ngu-van-thi-tot-nghiep-thpt-2021-b632572a56a7437095cea76ac65d3377.jpg", 
-        "listCheck": "10 tin liên quan" 
+        "listCheck": "20 tin liên quan" 
       },
            {
         "ht1": "Tin hot", 
-        "ht2": "54 phút trước", 
+        "timePost": "13:40 24/08/2023",
         "txttitle": "Điểm sàn thấp dễ khiến thí sinh rơi vào bẫy, nguy cơ trượt đại học cao", 
         "img_notifi": "https://media-cdn-v2.laodong.vn/storage/newsportal/2023/8/22/1231787/THI-SINH-11.jpg?w=800&h=496&crop=auto&scale=both", 
                  
@@ -23,37 +24,52 @@
       },
            {
         "ht1": "Tin hot", 
-        "ht2": "54 phút trước", 
+        "timePost": "16:18 24/08/2023",
         "txttitle": "Thí sinh bắt đầu dự thi năng khiếu vào Trường Đại học Sư phạm Hà Nội", 
         "img_notifi": "https://th.bing.com/th?id=OIF.X4yodcbKtjfzpul%2bsjnPtg&pid=ImgDet&rs=1", 
-        "listCheck": "10 tin liên quan" 
+        "listCheck": "11 tin liên quan" 
       },
            {
         "ht1": "Đừng bỏ lỡ", 
-        "ht2": "2 ngày trước", 
+        "timePost": "17:14 24/08/2023",
         "txttitle": "1 bài thi đại học môn Văn đạt điểm 10 từ 18 năm trước gây sốt trở lại: Cùng vào tác phẩm Vợ Nhặt", 
         "img_notifi": "https://tintuctuyensinh.vn/wp-content/uploads/2020/10/dai-hoc-thuy-loi-4.jpg", 
         "listCheck": "10 tin liên quan" 
       },
            {
         "ht1": "Tin hot", 
-        "ht2": "54 phút trước", 
+        "timePost": "17:07 24/08/2023",
         "txttitle": "Cô gái nhà nghèo, mồ côi mẹ thi đỗ vào Đại học Harvard", 
         "img_notifi": "https://th.bing.com/th/id/R.6bb78cfbeeedbd8f1431f731577b6eac?rik=s9u3BR3QLyflGw&pid=ImgRaw&r=0", 
-        "listCheck": "10 tin liên quan" 
+        "listCheck": "5 tin liên quan" 
       },
        {
         "ht1": "Tin hot", 
-        "ht2": "54 phút trước", 
+         "timePost": "16:18 25/08/2023", 
         "txttitle": "Bị mẹ ép thi lại đại học 9 lần, còn bị ép đâm kim vào tay lấy máu viết chữ, cô gái làm ra hành động dại dột khó lòng tha thứ", 
         "img_notifi": "https://media1.nguoiduatin.vn/thumb_x992x595/media/uong-hai-yen/2018/06/25/g.jpg", 
-        "listCheck": "10 tin liên quan" 
+        "listCheck": "8 tin liên quan" 
       },
        {
         "ht1": "Đừng bỏ lỡ", 
-        "ht2": "40 phút trước", 
+        "timePost": "08:52 25/08/2023",
         "txttitle": "Lịch thi vào lớp 10 các trường THPT thuộc khối Đại học Quốc gia Hà Nội", 
         "img_notifi": "https://th.bing.com/th/id/R.d84c4c98fa382b72f1ffb8c72379ed0a?rik=xZh9%2fIzoWJX2xQ&pid=ImgRaw&r=0", 
-        "listCheck": "10 tin liên quan" 
+        "listCheck": "13 tin liên quan" 
+      },
+      {
+        "ht1": "Tin hot", 
+        "timePost": "16:18 25/08/2023",   
+        "txttitle": "Nóng: Ngoa Thương, Bách Khoa, Y Hà Nội và hơn 30 trường ĐH trên toàn quốc dự kiến lịch công bố điểm chuẩn", 
+        "img_notifi": "https://photo-baomoi.bmcdn.me/w700_r1/2023_08_23_35_46707355/4d83b5a036eddfb386fc.jpg", 
+        "listCheck": "21 tin liên quan" 
+            
+      },
+           {
+        "ht1": "Đừng bỏ lỡ", 
+        "ht2": "1 ngày trước", 
+        "txttitle": "Những lý do thí sinh 2K5 nên đặt nguyện vọng ưu tiên vào trường Đại học Đại Nam", 
+        "img_notifi": "https://static-images.vnncdn.net/files/publish/2022/7/7/bo-gd-dt-cong-bo-dap-an-mon-ngu-van-thi-tot-nghiep-thpt-2021-b632572a56a7437095cea76ac65d3377.jpg", 
+        "listCheck": "5 tin liên quan" 
       }
 ]
